@@ -3,4 +3,5 @@ def oxford_comma(array)
 array.each do |name|
   newArray.push "#{array[0]}"
   end
+  return newAray
 end
