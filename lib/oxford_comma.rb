@@ -1,6 +1,6 @@
 def oxford_comma(array)
-  newArray
+  newArray = []
 array.each do |name|
   newArray.push "#{array[0]}"
-end
+  end
 end
